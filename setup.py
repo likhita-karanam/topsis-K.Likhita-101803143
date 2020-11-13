@@ -8,11 +8,11 @@ setup(
     py_modules=["helloworld"],
     package_dir={'': 'src'},
     classifiers=[
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.6",
-        "Programming Language :: Python :: 3.7",
-        "Licence :: OSI Approved :: GNU General Public Licence v2 or later (GPLv2+)",
-        "Operating System :: OS Independent",
+         'License :: OSI Approved :: MIT License',   # Again, pick a license
+    'Programming Language :: Python :: 3',      #Specify which pyhton versions that you want to support
+    'Programming Language :: Python :: 3.4',
+    'Programming Language :: Python :: 3.5',
+    'Programming Language :: Python :: 3.6',
         
     ],
     long_description=long_description,
