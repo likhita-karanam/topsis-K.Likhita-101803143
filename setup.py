@@ -26,4 +26,8 @@ setup(
             "pytest>=3.7",
         ],
     },
+    
+    url="https://github.com/likhita-karanam/topsis-K.Likhita-101803143",
+    author="K.Likhita",
+    author_email="karanamlikhita2000@gmail.com",
 )
