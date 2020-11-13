@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: topsis-K.Likhita-101803143
+Version: 0.0.1
+Summary: Say hello!
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: k_l
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Licence :: OSI Approved :: GNU General Public Licence v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev
